@@ -1,0 +1,10 @@
+# private: raw chat and anything containing message text
+chat.txt
+announcements.csv
+review.csv
+# secrets
+.env
+# local working files
+extracted_v1.csv
+*.log
+__pycache__/
